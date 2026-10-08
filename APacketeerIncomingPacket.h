@@ -2,7 +2,7 @@
 #define APACKETEER_INCOMING_PACKET_H
 
 #include <stdint.h>
-#include "Packet.h"
+#include "APacketeerPacket.h"
 
 class IncomingPacket : public Packet {
 public:

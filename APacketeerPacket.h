@@ -2,7 +2,7 @@
 #define APACKETEER_PACKET_H
 
 #include <stdint.h>
-#include "BitUtil.h"
+#include "APacketeerBitUtil.h"
 
 class Packet {
 public:

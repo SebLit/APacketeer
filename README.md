@@ -13,3 +13,4 @@ differences to the Java version.
 * `Client` uses a fixed size buffer to receive the payload bytes in order to prevent dynamic memory allocation
   * If allocation should fail, `Client`'s `receive()` will return `APacketeerError::BUFFER_ALLOCATION`
   * If a received payload shouldn't be within bounds of the target size the `Client` will return `APacketeerError::PAYLOAD_TOO_LARGE`
+* Header files always start with the prefix `APacketeer` followed by the actual class name. I.e. `APacketeerClient.h` contains the `Client` class

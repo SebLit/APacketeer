@@ -3,9 +3,9 @@
 
 #include <stdint.h>
 #include <new>
-#include "Packet.h"
-#include "PacketFactory.h"
-#include "NetworkAdapter.h"
+#include "APacketeerPacket.h"
+#include "APacketeerPacketFactory.h"
+#include "APacketeerNetworkAdapter.h"
 #include "APacketeerErrors.h"
 
 class Client {

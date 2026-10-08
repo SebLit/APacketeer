@@ -2,7 +2,7 @@
 #define APACKETEER_PACKET_FACTORY_H
 
 #include <stdint.h>
-#include "IncomingPacket.h"
+#include "APacketeerIncomingPacket.h"
 
 class PacketFactory {
 public:
