@@ -1,0 +1,1 @@
+// arduino ide requires at least one cpp file to build a library -> this is an empty cpp file for that purpose
