@@ -1,4 +1,4 @@
-A c++ port of [https://github.com/SebLit/JPacketeer](JPacketeer) for Arduino. Please refer to JPacketeer for full documentation. This documentation only lists 
+A c++ port of [JPacketeer](https://github.com/SebLit/JPacketeer) for Arduino. Please refer to JPacketeer for full documentation. This documentation only lists 
 differences to the Java version.
 
 # API differences 
